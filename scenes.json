@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "title": "Başlangıç",
+    "text": "Aslıhan ve Metehan birlikte parka giderler. Ne yapmak isterler?",
+    "a": {
+      "text": "Salıncağa bin",
+      "to": 2
+    },
+    "b": {
+      "text": "Ağaç altında otur",
+      "to": 3
+    }
+  },
+  {
+    "id": 2,
+    "title": "Salıncak",
+    "text": "Salıncakta rüzgâr var. Bir çocuk yere düşer, yardım et?",
+    "a": {
+      "text": "Yardım et",
+      "to": 4
+    },
+    "b": {
+      "text": "Sağır taklidi yap",
+      "to": 4
+    }
+  },
+  {
+    "id": 3,
+    "title": "Ağaç Altı",
+    "text": "Ağaç altında eski bir harita buldular. Ne yapmalı?",
+    "a": {
+      "text": "Haritayı takip et",
+      "to": 4
+    },
+    "b": {
+      "text": "Haritayı yak",
+      "to": 4
+    }
+  },
+  {
+    "id": 4,
+    "title": "Son",
+    "text": "Gün bitti. Aslıhan ve Metehan eve dönerken gülüşürler. Oyun bitti.",
+    "a": {
+      "text": "Tekrar oyna",
+      "to": 1
+    },
+    "b": {
+      "text": "Çık",
+      "to": 4
+    }
+  }
+]
